@@ -1,0 +1,284 @@
+query_id,query,aspect,doc_id,topical_gold_0_3,social_gold_0_3,combined_gold_0_3
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1001,3,2,2
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1002,3,0,2
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1003,3,3,3
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1004,2,3,2
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1005,2,1,2
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1013,0,3,0
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1016,0,3,0
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1031,1,3,2
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1033,0,3,0
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1034,0,1,0
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1035,0,3,0
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1036,0,1,0
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1043,1,2,2
+Q01,Should I pay off credit card debt before investing?,debt,sample-a1044,1,3,2
+Q02,Fastest way to get out of credit card debt,debt,sample-a1001,2,2,2
+Q02,Fastest way to get out of credit card debt,debt,sample-a1002,2,0,1
+Q02,Fastest way to get out of credit card debt,debt,sample-a1003,2,3,2
+Q02,Fastest way to get out of credit card debt,debt,sample-a1004,3,3,3
+Q02,Fastest way to get out of credit card debt,debt,sample-a1005,3,1,2
+Q02,Fastest way to get out of credit card debt,debt,sample-a1006,0,1,0
+Q02,Fastest way to get out of credit card debt,debt,sample-a1010,0,3,0
+Q02,Fastest way to get out of credit card debt,debt,sample-a1011,0,1,0
+Q02,Fastest way to get out of credit card debt,debt,sample-a1030,0,3,0
+Q02,Fastest way to get out of credit card debt,debt,sample-a1031,0,3,0
+Q02,Fastest way to get out of credit card debt,debt,sample-a1033,0,3,0
+Q02,Fastest way to get out of credit card debt,debt,sample-a1034,0,1,0
+Q02,Fastest way to get out of credit card debt,debt,sample-a1035,0,3,0
+Q02,Fastest way to get out of credit card debt,debt,sample-a1036,0,1,0
+Q03,How big should my emergency fund be?,saving,sample-a1002,0,0,0
+Q03,How big should my emergency fund be?,saving,sample-a1006,2,1,2
+Q03,How big should my emergency fund be?,saving,sample-a1007,2,3,2
+Q03,How big should my emergency fund be?,saving,sample-a1008,2,1,2
+Q03,How big should my emergency fund be?,saving,sample-a1009,2,3,2
+Q03,How big should my emergency fund be?,saving,sample-a1012,1,0,0
+Q03,How big should my emergency fund be?,saving,sample-a1013,1,3,2
+Q03,How big should my emergency fund be?,saving,sample-a1027,0,3,0
+Q03,How big should my emergency fund be?,saving,sample-a1031,0,3,0
+Q03,How big should my emergency fund be?,saving,sample-a1033,0,3,0
+Q03,How big should my emergency fund be?,saving,sample-a1034,0,1,0
+Q03,How big should my emergency fund be?,saving,sample-a1037,2,1,2
+Q03,How big should my emergency fund be?,saving,sample-a1038,2,3,2
+Q03,How big should my emergency fund be?,saving,sample-a1039,0,3,0
+Q03,How big should my emergency fund be?,saving,sample-a1044,0,3,0
+Q03,How big should my emergency fund be?,saving,sample-a1045,2,1,2
+Q03,How big should my emergency fund be?,saving,sample-a1046,2,3,2
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1002,0,0,0
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1006,2,1,2
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1007,2,3,2
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1008,2,1,2
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1009,2,3,2
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1010,0,3,0
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1011,0,1,0
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1012,0,0,0
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1014,0,3,0
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1025,0,3,0
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1031,0,3,0
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1035,0,3,0
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1037,2,1,2
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1038,2,3,2
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1045,2,1,2
+Q04,Where is the safest place to keep emergency savings?,saving,sample-a1046,2,3,2
+Q05,Is renting better than buying a home?,mortgage,sample-a1001,0,2,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1002,0,0,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1005,0,1,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1006,0,1,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1007,0,3,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1008,0,0,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1010,2,3,2
+Q05,Is renting better than buying a home?,mortgage,sample-a1011,2,1,2
+Q05,Is renting better than buying a home?,mortgage,sample-a1018,0,3,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1020,0,2,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1021,1,3,2
+Q05,Is renting better than buying a home?,mortgage,sample-a1022,1,1,1
+Q05,Is renting better than buying a home?,mortgage,sample-a1025,0,3,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1035,0,3,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1036,0,1,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1041,0,1,0
+Q05,Is renting better than buying a home?,mortgage,sample-a1044,2,3,2
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1001,0,2,0
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1002,0,0,0
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1007,0,3,0
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1008,0,1,0
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1010,2,3,2
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1011,2,1,2
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1012,2,0,1
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1013,2,3,2
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1023,0,1,0
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1024,0,3,0
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1031,0,3,0
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1032,0,1,0
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1038,0,3,0
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1043,2,2,2
+Q06,When does refinancing a mortgage make sense?,mortgage,sample-a1044,2,3,2
+Q07,How are long term capital gains taxed?,tax,sample-a1001,0,1,0
+Q07,How are long term capital gains taxed?,tax,sample-a1007,0,3,0
+Q07,How are long term capital gains taxed?,tax,sample-a1008,0,0,0
+Q07,How are long term capital gains taxed?,tax,sample-a1009,0,3,0
+Q07,How are long term capital gains taxed?,tax,sample-a1013,0,3,0
+Q07,How are long term capital gains taxed?,tax,sample-a1014,3,3,3
+Q07,How are long term capital gains taxed?,tax,sample-a1015,3,1,2
+Q07,How are long term capital gains taxed?,tax,sample-a1016,2,3,2
+Q07,How are long term capital gains taxed?,tax,sample-a1017,2,0,1
+Q07,How are long term capital gains taxed?,tax,sample-a1024,0,3,0
+Q07,How are long term capital gains taxed?,tax,sample-a1026,0,1,0
+Q07,How are long term capital gains taxed?,tax,sample-a1027,0,3,0
+Q07,How are long term capital gains taxed?,tax,sample-a1028,0,1,0
+Q07,How are long term capital gains taxed?,tax,sample-a1029,0,0,0
+Q07,How are long term capital gains taxed?,tax,sample-a1033,0,3,0
+Q07,How are long term capital gains taxed?,tax,sample-a1035,0,3,0
+Q07,How are long term capital gains taxed?,tax,sample-a1036,0,1,0
+Q07,How are long term capital gains taxed?,tax,sample-a1037,0,0,0
+Q07,How are long term capital gains taxed?,tax,sample-a1038,0,2,0
+Q07,How are long term capital gains taxed?,tax,sample-a1042,0,3,0
+Q07,How are long term capital gains taxed?,tax,sample-a1046,0,3,0
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1010,0,3,0
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1016,3,3,3
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1017,3,0,2
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1018,0,3,0
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1024,0,3,0
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1025,1,3,2
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1026,1,1,1
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1027,1,2,2
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1028,1,1,1
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1038,0,2,0
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1039,1,3,2
+Q08,What paperwork do I need for investment taxes?,tax,sample-a1040,1,1,1
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1001,0,2,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1002,0,0,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1003,0,3,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1004,0,3,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1005,0,1,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1009,0,3,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1010,0,3,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1013,0,3,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1014,0,3,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1015,0,1,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1018,2,3,2
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1019,2,2,2
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1020,2,2,2
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1021,2,3,2
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1022,2,1,2
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1026,0,1,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1035,0,3,0
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1039,2,3,2
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1041,2,0,1
+Q09,Are ETFs safer than picking individual stocks?,investing,sample-a1046,0,3,0
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1001,0,2,0
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1002,0,0,0
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1003,0,3,0
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1013,0,3,0
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1014,0,3,0
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1016,0,3,0
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1018,2,3,2
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1021,3,3,3
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1022,3,1,2
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1024,2,3,2
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1039,2,3,2
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1041,2,0,1
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1042,2,3,2
+Q10,Lump sum investing versus dollar cost averaging,investing,sample-a1044,0,3,0
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1001,0,2,0
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1002,0,0,0
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1003,0,3,0
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1010,0,3,0
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1018,2,3,2
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1020,2,2,2
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1023,2,0,1
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1024,2,3,2
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1025,0,3,0
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1026,0,1,0
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1027,0,3,0
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1031,0,3,0
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1033,0,3,0
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1039,2,3,2
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1040,2,1,2
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1041,2,0,1
+Q11,Which fees should I check before buying an ETF?,investing,sample-a1042,2,3,2
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1001,0,1,0
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1003,0,3,0
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1008,0,0,0
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1009,0,3,0
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1013,0,3,0
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1016,1,3,2
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1017,1,0,0
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1023,0,0,0
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1024,0,3,0
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1025,3,3,3
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1026,3,1,2
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1027,2,3,2
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1028,2,1,2
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1042,0,3,0
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1045,0,1,0
+Q12,"I think an investment might be a scam, what should I do?",risk,sample-a1046,0,3,0
+Q13,How can I avoid investment fraud?,risk,sample-a1005,0,1,0
+Q13,How can I avoid investment fraud?,risk,sample-a1008,0,0,0
+Q13,How can I avoid investment fraud?,risk,sample-a1013,0,3,0
+Q13,How can I avoid investment fraud?,risk,sample-a1014,0,3,0
+Q13,How can I avoid investment fraud?,risk,sample-a1015,0,1,0
+Q13,How can I avoid investment fraud?,risk,sample-a1016,0,3,0
+Q13,How can I avoid investment fraud?,risk,sample-a1017,0,0,0
+Q13,How can I avoid investment fraud?,risk,sample-a1025,2,3,2
+Q13,How can I avoid investment fraud?,risk,sample-a1026,2,1,2
+Q13,How can I avoid investment fraud?,risk,sample-a1027,3,3,3
+Q13,How can I avoid investment fraud?,risk,sample-a1028,3,1,2
+Q13,How can I avoid investment fraud?,risk,sample-a1033,1,3,2
+Q13,How can I avoid investment fraud?,risk,sample-a1034,1,1,1
+Q13,How can I avoid investment fraud?,risk,sample-a1035,0,3,0
+Q13,How can I avoid investment fraud?,risk,sample-a1038,0,2,0
+Q13,How can I avoid investment fraud?,risk,sample-a1040,0,1,0
+Q13,How can I avoid investment fraud?,risk,sample-a1042,0,3,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1006,0,0,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1009,0,3,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1013,0,3,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1014,0,3,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1018,0,3,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1029,2,0,1
+Q14,Roth versus traditional retirement account,retirement,sample-a1030,2,3,2
+Q14,Roth versus traditional retirement account,retirement,sample-a1031,2,3,2
+Q14,Roth versus traditional retirement account,retirement,sample-a1032,2,0,1
+Q14,Roth versus traditional retirement account,retirement,sample-a1033,0,3,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1035,0,3,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1037,0,0,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1039,0,3,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1040,0,1,0
+Q14,Roth versus traditional retirement account,retirement,sample-a1045,0,1,0
+Q15,How do I raise my credit score?,credit,sample-a1001,0,2,0
+Q15,How do I raise my credit score?,credit,sample-a1002,0,0,0
+Q15,How do I raise my credit score?,credit,sample-a1003,0,3,0
+Q15,How do I raise my credit score?,credit,sample-a1004,1,3,2
+Q15,How do I raise my credit score?,credit,sample-a1005,1,1,1
+Q15,How do I raise my credit score?,credit,sample-a1009,0,3,0
+Q15,How do I raise my credit score?,credit,sample-a1013,0,3,0
+Q15,How do I raise my credit score?,credit,sample-a1027,1,3,2
+Q15,How do I raise my credit score?,credit,sample-a1028,1,2,2
+Q15,How do I raise my credit score?,credit,sample-a1033,2,3,2
+Q15,How do I raise my credit score?,credit,sample-a1034,2,1,2
+Q15,How do I raise my credit score?,credit,sample-a1035,2,3,2
+Q15,How do I raise my credit score?,credit,sample-a1036,2,1,2
+Q15,How do I raise my credit score?,credit,sample-a1042,1,3,2
+Q15,How do I raise my credit score?,credit,sample-a1046,0,3,0
+Q16,What credit card utilisation is healthy?,credit,sample-a1001,1,2,2
+Q16,What credit card utilisation is healthy?,credit,sample-a1002,1,0,0
+Q16,What credit card utilisation is healthy?,credit,sample-a1003,1,3,2
+Q16,What credit card utilisation is healthy?,credit,sample-a1004,0,3,0
+Q16,What credit card utilisation is healthy?,credit,sample-a1005,0,1,0
+Q16,What credit card utilisation is healthy?,credit,sample-a1010,0,3,0
+Q16,What credit card utilisation is healthy?,credit,sample-a1016,0,3,0
+Q16,What credit card utilisation is healthy?,credit,sample-a1024,0,3,0
+Q16,What credit card utilisation is healthy?,credit,sample-a1025,0,3,0
+Q16,What credit card utilisation is healthy?,credit,sample-a1033,2,3,2
+Q16,What credit card utilisation is healthy?,credit,sample-a1034,2,1,2
+Q16,What credit card utilisation is healthy?,credit,sample-a1035,2,3,2
+Q16,What credit card utilisation is healthy?,credit,sample-a1036,2,1,2
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1006,2,1,2
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1008,2,0,1
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1009,2,3,2
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1012,0,0,0
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1013,0,3,0
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1014,0,3,0
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1016,0,3,0
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1017,0,0,0
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1018,0,3,0
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1022,0,1,0
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1030,0,3,0
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1037,2,1,2
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1038,2,2,2
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1039,0,3,0
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1044,0,3,0
+Q17,Should I hold cash or short term bonds for savings?,saving,sample-a1045,2,1,2
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1008,0,0,0
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1009,0,3,0
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1010,2,3,2
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1012,2,0,1
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1013,2,3,2
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1018,1,3,2
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1019,1,2,2
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1020,1,2,2
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1025,0,3,0
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1038,0,2,0
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1041,0,0,0
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1042,0,3,0
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1043,2,2,2
+Q18,Should I overpay my mortgage or invest the money?,mortgage,sample-a1044,2,3,2

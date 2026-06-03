@@ -1,0 +1,11 @@
+feature,default_weight
+topical_score,0.5
+community_score,0.14
+credibility_score,0.08
+author_influence_score,0.07
+engagement_score,0.06
+freshness_score,0.05
+tag_match_score,0.05
+sentiment_alignment_score,0.05
+social_proximity_score (searcher only),0.13
+community_affinity_score (searcher only),0.07

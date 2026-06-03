@@ -1,0 +1,19 @@
+query_id,query,aspect
+Q01,Should I pay off credit card debt before investing?,debt
+Q02,Fastest way to get out of credit card debt,debt
+Q03,How big should my emergency fund be?,saving
+Q04,Where is the safest place to keep emergency savings?,saving
+Q05,Is renting better than buying a home?,mortgage
+Q06,When does refinancing a mortgage make sense?,mortgage
+Q07,How are long term capital gains taxed?,tax
+Q08,What paperwork do I need for investment taxes?,tax
+Q09,Are ETFs safer than picking individual stocks?,investing
+Q10,Lump sum investing versus dollar cost averaging,investing
+Q11,Which fees should I check before buying an ETF?,investing
+Q12,"I think an investment might be a scam, what should I do?",risk
+Q13,How can I avoid investment fraud?,risk
+Q14,Roth versus traditional retirement account,retirement
+Q15,How do I raise my credit score?,credit
+Q16,What credit card utilisation is healthy?,credit
+Q17,Should I hold cash or short term bonds for savings?,saving
+Q18,Should I overpay my mortgage or invest the money?,mortgage

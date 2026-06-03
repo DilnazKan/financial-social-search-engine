@@ -1,0 +1,11 @@
+doc_id,rank_no_searcher,rank_active_investor,rank_cautious_planner,title,author
+sample-a1042,1.0,1.0,1.0,How do I start investing with little money?,301
+sample-a1041,2.0,2.0,2.0,How do I start investing with little money?,304
+sample-a1014,3.0,3.0,3.0,How are capital gains taxed?,301
+sample-a1007,4.0,,5.0,How much emergency fund should I keep?,302
+sample-a1044,5.0,,4.0,Should I pay extra on my mortgage or invest?,301
+sample-a1003,6.0,,,Should I pay off credit card debt before invest...,302
+sample-a1018,,4.0,,Should I invest in ETFs or individual stocks?,301
+sample-a1020,,5.0,,Should I invest in ETFs or individual stocks?,301
+sample-a1031,,6.0,,When should I prioritise retirement contributions?,302
+sample-a1025,,,6.0,What should I do if I think an investment is a...,303

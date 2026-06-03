@@ -1,0 +1,6 @@
+rubric_item,max_points,repository_evidence,main_files
+Objective: completeness & clarity,1,README objective + 'why this is social search'; domain = personal-finance Q&A social search.,"README.md, report_assets/presentation_outline_15min.md"
+Data: correctness,1,"Real Money Stack Exchange dump loader (asker, answerer, commenters, votes, reputation) + reproducible offline corpus.","src/data_collection.py, data/processed/, data/sample/"
+Models: correctness,2.5,"BM25 + TF-IDF baselines; transparent social re-ranker; SOCIAL GRAPH (PageRank influence, community detection) and searcher personalisation.","src/retrieval.py, src/social_features.py, src/social_graph.py, src/reranking.py"
+Evaluation: metrics correctness,2.5,"P@k, R@k, MAP, nDCG@k; model-INDEPENDENT dual gold (topical + social usefulness) with TREC-style pooling; ablation.","src/evaluation.py, results/metrics/evaluation_dual_gold.csv, results/metrics/ablation_metrics.csv"
+Evaluation: clarity of discussion,1,Auto-generated discussion incl. anti-circularity note; human-annotation template provided for the definitive run.,"results/metrics/evaluation_discussion.md, data/qrels/social_judgments_template.csv"

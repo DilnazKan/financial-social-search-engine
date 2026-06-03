@@ -1,0 +1,11 @@
+feature,computed_from,why_it_matters,social_search_role
+topical_score,BM25 / TF-IDF retrieval score,Anchors ranking to the information need,Answers must be on-topic before social evidence helps
+community_score,answer_score + accepted_answer,Collective approval / accepted usefulness,Core social signal from the Q&A community
+engagement_score,"comments, question views, answer count",Discussion activity and attention,Promotes answers on questions that drew interaction
+credibility_score,log1p(author_reputation),Authority matters for financial advice,Lightweight author authority signal
+author_influence_score,PageRank over the user interaction graph,Network influence beyond raw reputation,SOCIAL-GRAPH signal: influential community members
+freshness_score,exp(-age_days / half_life),Tax/rates/products go out of date,Temporal social relevance
+tag_match_score,"Jaccard(query terms, community tags)",Community topic interpretation,Connects user wording to socially assigned topics
+sentiment_alignment_score,query intent + financial stance,Cautious answers beat positive ones for risk/scam/debt/tax,"Stance usefulness, not positivity"
+social_proximity_score,graph distance to searcher's followed authors,Content from the searcher's network,SOCIAL-GRAPH personalisation (per searcher)
+community_affinity_score,overlap with searcher's interest communities,Shared-interest communities,SOCIAL-GRAPH personalisation (per searcher)

@@ -1,0 +1,15 @@
+/archive
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+beir-index/
+index_raw/
+index_tags/
+results/.matplotlib/
+data/raw/*.7z
+data/raw/*.zip
+data/raw/Posts.xml
+data/raw/Users.xml
+data/raw/Comments.xml
+data/raw/Votes.xml

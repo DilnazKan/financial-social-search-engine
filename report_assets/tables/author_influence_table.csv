@@ -1,0 +1,16 @@
+user_id,influence_pagerank_norm,community,in_degree,expertise_tags
+301,1.0,1,15,advisor beginner buy capital-gains credit-card
+302,0.6073,2,11,advisor budgeting capital-gains credit-card debt
+303,0.6058,0,10,budgeting capital-gains credit-card credit-score debt
+305,0.3864,3,6,bonds budgeting emergency-fund risk saving
+304,0.2588,1,5,beginner etf fees investing
+307,0.1928,2,4,investing ira retirement roth saving
+311,0.1312,5,3,capital-gains investing tax
+310,0.1312,3,3,bonds emergency-fund saving treasury
+306,0.107,4,3,buy housing mortgage rent
+314,0.0318,1,1,interest-rate mortgage refinance
+309,0.0212,0,1,credit-card debt investing
+402,0.0,0,0,
+403,0.0,0,0,
+404,0.0,0,0,
+405,0.0,3,0,
