@@ -15,7 +15,7 @@ authors."* The engine implements exactly these elements.
 
 ---
 
-## 1. Objective (rubric: 1 pt)
+## 1. Objective 
 
 **Domain.** Personal-finance / investing community Q&A (Money Stack Exchange
 style). The retrievable unit is an **answer** connected to its question, author,
@@ -30,9 +30,9 @@ community-filtered social search.
 
 ---
 
-## 2. Why this is social search (mapped to the slides)
+## 2. Why this is social search 
 
-| Professor's concept (slide) | Where it lives in this project |
+| Сoncept  | Where it lives in this project |
 |---|---|
 | Social relationships between searcher and results (follows, shared interests) | `social_proximity_score`, `community_affinity_score` in `src/social_graph.py` |
 | Online-community filtering / personalized results | searcher-aware re-ranking in `src/reranking.py` (`--searcher`) |
@@ -45,7 +45,7 @@ community-filtered social search.
 
 ---
 
-## 3. Data (rubric: 1 pt)
+## 3. Data 
 
 **Primary (real) source.** The Money Stack Exchange data dump
 (`https://archive.org/details/stackexchange`). Place `Posts.xml`, `Users.xml`,
@@ -77,7 +77,7 @@ python -m src.data_collection --sample   # force the offline corpus
 
 ---
 
-## 4. Models (rubric: 2.5 pts)
+## 4. Models 
 
 ### 4.1 Topical retrieval (baselines)
 * **BM25** (`rank_bm25`) and **TF-IDF + cosine** (`scikit-learn`) over the
@@ -130,7 +130,7 @@ python -m src.demo_search --query "How should I start investing?" --searcher cau
 
 ---
 
-## 5. Evaluation (rubric: 2.5 + 1 pts)
+## 5. Evaluation 
 
 The evaluation (`src/evaluation.py`) is **model-independent** and avoids the
 classic circularity trap (labels must never come from the system being judged).
@@ -217,7 +217,7 @@ results/     runs/, metrics/, figures/
 report_assets/ figures/, tables/, *.md
 ```
 
-## 8. Deliverable checklist (for the Drive folder `WSA_surname1_surname2`)
+## 8. Deliverable checklist
 Report (Objective/Data/Models/Evaluation) · this code + README · data ·
 ~15-min PowerPoint where **each member presents an aspect** — see
 `report_assets/presentation_outline_15min.md`.
