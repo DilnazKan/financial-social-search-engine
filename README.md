@@ -7,7 +7,7 @@ approval, author credibility, **social-graph influence**, engagement, freshness,
 topic communities — and, for a known searcher, by the searcher's **social
 relationships** to the content authors.
 
-The design follows Prof. Viviani's definition of social search (course slides,
+The definition of social search (course slides,
 section *Social Search*): *"social search is a personalized search technology
 with online-community filtering … social search systems also consider the social
 relationships between the searcher and the results … and influence metrics of
