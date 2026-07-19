@@ -217,11 +217,6 @@ results/     runs/, metrics/, figures/
 report_assets/ figures/, tables/, *.md
 ```
 
-## 8. Deliverable checklist
-Report (Objective/Data/Models/Evaluation) · this code + README · data ·
-~15-min PowerPoint where **each member presents an aspect** — see
-`report_assets/presentation_outline_15min.md`.
-
 ## Team
 
 Group project developed with my coursemates.
