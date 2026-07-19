@@ -221,3 +221,8 @@ report_assets/ figures/, tables/, *.md
 Report (Objective/Data/Models/Evaluation) · this code + README · data ·
 ~15-min PowerPoint where **each member presents an aspect** — see
 `report_assets/presentation_outline_15min.md`.
+
+## Team
+
+Group project developed with my coursemates.
+**My contribution:** results analysis and interpretation (nDCG, MAP, P@k), evaluation section of the technical report
